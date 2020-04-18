@@ -1,0 +1,43 @@
+{
+  "keranjang": [
+    {
+      "id": 1,
+      "nama": "Kulkas Aqua",
+      "harga": 2000000,
+      "stok": "10",
+      "qty": 1
+    },
+    {
+      "id": 2,
+      "nama": "Kulkas LG",
+      "harga": 2500000,
+      "stok": "10",
+      "qty": 2
+    },
+    {
+      "id": 3,
+      "nama": "Kulkas Panasonic",
+      "harga": 2750000,
+      "stok": "10",
+      "qty": 2
+    },
+    {
+      "id": 4,
+      "nama": "Kulkas Polytron",
+      "harga": 2550000,
+      "stok": "10",
+      "qty": 2
+    },
+    {
+      "id": 5,
+      "nama": "Kulkas Polytron Two",
+      "harga": 4000000,
+      "stok": "10",
+      "qty": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

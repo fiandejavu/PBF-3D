@@ -1,0 +1,78 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "gambar": "aqua.jpg",
+            "nama": "Kulkas Aqua",
+            "harga": 2000000,
+            "stok": "10"
+        },
+        {
+            "id": 2,
+            "gambar": "lg.jpg",
+            "nama": "Kulkas LG",
+            "harga": 2500000,
+            "stok": "10"
+        },
+        {
+            "id": 3,
+            "gambar": "panasonic.jpg",
+            "nama": "Kulkas Panasonic",
+            "harga": 2750000,
+            "stok": "10"
+        },
+        {
+            "id": 4,
+            "gambar": "polytron.jpg",
+            "nama": "Kulkas Polytron",
+            "harga": 2550000,
+            "stok": "10"
+        },
+        {
+            "id": 5,
+            "gambar": "polytron.png",
+            "nama": "Kulkas Polytron Two",
+            "harga": 4000000,
+            "stok": "10"
+        },
+        {
+            "id": 6,
+            "gambar": "polytron2.jpg",
+            "nama": "Kulkas Polytron Three",
+            "harga": 3450000,
+            "stok": "10"
+        },
+        {
+            "id": 7,
+            "gambar": "samsung.jpg",
+            "nama": "Kulkas Samsung",
+            "harga": 2000000,
+            "stok": "10"
+        },
+        {
+            "id": 8,
+            "gambar": "samsung2.jpg",
+            "nama": "Kulkas Samsung Two",
+            "harga": 3750000,
+            "stok": "10"
+        },
+        {
+            "id": 9,
+            "gambar": "sanken.jpg",
+            "nama": "Kulkas Sanken",
+            "harga": 1750000,
+            "stok": "10"
+        },
+        {
+            "id": 10,
+            "gambar": "sharp.jpg",
+            "nama": "Kulkas Sharp",
+            "harga": 4000000,
+            "stok": "10"
+        }
+    ],
+    "comments": [],
+    "profile": {
+        "name": "typicode"
+    }
+}
